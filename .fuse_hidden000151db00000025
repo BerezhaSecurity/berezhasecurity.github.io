@@ -18,5 +18,3 @@ github_username:  berezhasecurity
 
 # Build settings
 markdown: kramdown
-
-excerpt_separator: <!--more-->
