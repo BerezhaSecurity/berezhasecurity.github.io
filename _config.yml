@@ -40,7 +40,7 @@ navbar-links:
 author:
   name: Berezha Security
   email: "blog@berezhasecurity.com"
-  facebook: yourname  # eg. daattali
+  facebook: berezhasec  # eg. daattali
   github: berezhasecurity    # eg. daattali
   twitter: berezhasecurity   # eg. daattali
   linkedin: company/5360904  # eg. "pub/dean-attali/8/946/143"
@@ -49,7 +49,7 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: true
-  facebook: false
+  facebook: true
   email: true
   twitter: true
   github: true
