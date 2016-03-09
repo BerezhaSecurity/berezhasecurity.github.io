@@ -3,6 +3,7 @@ layout: post
 title: To Report or Not to Report?
 subtitle: That is a tough question
 categories: blog
+author: Vlad Styran
 ---
 Recently we were discussing a pentest report with one of our new customers when suddenly the client's Authorized Single Point of Contact, or SPoC as we usually call those folks, has stopped in the middle of the phrase and asked:
 
