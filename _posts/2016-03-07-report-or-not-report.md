@@ -4,10 +4,13 @@ title: To Report or Not to Report?
 subtitle: That is a tough question
 categories: blog
 author: Vlad Styran
+excerpt_separator: <!-- more -->
 ---
 Recently we were discussing a pentest report with one of our new customers when suddenly the client's Authorized Single Point of Contact, or SPoC as we usually call those folks, has stopped in the middle of the phrase and asked:
 
 > Guys, why are you reporting only the *serious* stuff?…
+
+<!-- more -->
 
 Frankly, it took me a second or two to react. I do pentesting for quite a while now, but this was the first time I've been asked a question like that. The client had some experience with other pentesters before us, and when I kindly asked to clarify the question, he explained that previously they had much longer reports containing mostly SSL-related issues.
 
